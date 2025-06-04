@@ -1,0 +1,16 @@
+[
+  {
+    "codigo_rastreio": "TESTE123",
+    "nome": "Jo\u00e3o da Silva",
+    "produto": "Perfume A",
+    "endereco": "Rua Um, 123 - S\u00e3o Paulo - SP, 01234-567",
+    "data_pedido": "2025-05-01"
+  },
+  {
+    "codigo_rastreio": "FAKETRACK456",
+    "nome": "Maria Oliveira",
+    "produto": "Perfume B",
+    "endereco": "Av. Dois, 456 - Rio de Janeiro - RJ, 12345-678",
+    "data_pedido": "2025-05-05"
+  }
+]
